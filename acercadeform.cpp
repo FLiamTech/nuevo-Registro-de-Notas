@@ -23,6 +23,8 @@ void AcercaDeForm::on_pushButton_released()
 
 void AcercaDeForm::on_pushButton_2_released()
 {
+    QString URL = "https://github.com/FLiamTech/nuevo-Registro-de-Notas";
 
+    QDesktopServices::openUrl(QUrl(URL));
 }
 
