@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>it_it.ts</file>
+        <file>it_it.qm</file>
+    </qresource>
+</RCC>
